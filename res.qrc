@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>enemyBullet.png</file>
+        <file>player.png</file>
+        <file>playerBullet .png</file>
+        <file>tank.png</file>
+        <file>background.jpg</file>
+        <file>wall.png</file>
+        <file>Eagle_base.png</file>
+    </qresource>
+    <qresource prefix="/sound">
+        <file>victory.mp3</file>
+    </qresource>
+</RCC>
